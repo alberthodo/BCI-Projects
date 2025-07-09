@@ -45,10 +45,7 @@ def test_imports():
     except ImportError as e:
         print(f"❌ Scikit-learn import failed: {e}")
         return False
-    
-    # MNE is optional and not required for basic functionality
-    print("⚠️  MNE not available (optional package - not needed for core functionality)")
-    
+   
     try:
         import seaborn as sns
         print("✅ Seaborn imported successfully")
@@ -145,7 +142,7 @@ def main():
         return False
     
     print("\n🎉 All tests passed successfully!")
-    print("\n✅ Your NeuroInsight BCI project is ready to use!")
+    print("\n✅ Your NeuroInsight BCI generator is ready to use!")
     print("\n🚀 Next steps:")
     print("   1. Run: python3 demo_eeg_simulation.py")
     print("   2. Or: neuroinsight-demo")
