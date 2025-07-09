@@ -1,0 +1,3 @@
+[console_scripts]
+neuroinsight-demo = neuroinsight.eeg_simulator:main
+

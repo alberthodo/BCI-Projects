@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+neuroinsight/__init__.py
+neuroinsight/eeg_simulator.py
+neuroinsight.egg-info/PKG-INFO
+neuroinsight.egg-info/SOURCES.txt
+neuroinsight.egg-info/dependency_links.txt
+neuroinsight.egg-info/entry_points.txt
+neuroinsight.egg-info/requires.txt
+neuroinsight.egg-info/top_level.txt

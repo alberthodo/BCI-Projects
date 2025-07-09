@@ -1,3 +1,27 @@
+Metadata-Version: 2.1
+Name: neuroinsight
+Version: 1.0.0
+Summary: Simulated BCI for Cognitive State Classification
+Home-page: UNKNOWN
+Author: BCI Projects Team
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
 # NeuroInsight – Simulated BCI for Cognitive State Classification
 
 🧠 A no-hardware Brain-Computer Interface (BCI) system that classifies cognitive states (focus, stress, relaxation) using synthetic EEG data.
@@ -217,3 +241,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This is a simulation tool for educational and research purposes. For clinical applications, always use validated EEG hardware and follow appropriate medical protocols.
+
+
